@@ -3,6 +3,8 @@ name: Revisar stock Switch 2 Zelda 40th
 run-name: ${{ github.event_name == 'workflow_dispatch' && '🧪 MANUAL · revisión solicitada' || '🔧 CÓDIGO · validación del monitor' }}
 
 on:
+  schedule:
+    - cron: '*/5 * * * *'
   push:
     branches: [main]
     paths:
