@@ -2,6 +2,16 @@
   "discovered": {},
   "initialized": true,
   "stores": {
+    "https://8-bits.cl/products/the-legend-of-zelda-ocarina-of-time-nintendo-switch-2": {
+      "last_changed_at": "2026-10-26T20:48:44+00:00",
+      "name": "JUEGO Ocarina - 8-bits",
+      "snapshot": {
+        "http": 200,
+        "price_clp": null,
+        "status": "unavailable",
+        "title": "(Preventa) The Legend of Zelda: Ocarina of Time Nintendo Switch 2\n – 8 BITS"
+      }
+    },
     "https://bestmart.cl/products/consola-nintendo-switch-2-the-legend-of-zelda-edicion-40-aniversario": {
       "last_changed_at": "2026-09-21T22:22:10+00:00",
       "name": "Bestmart",
@@ -10,6 +20,16 @@
         "price_clp": 669990,
         "status": "unavailable",
         "title": "Nintendo Switch 2 Zelda Edición 40 Aniversario | Bestmart"
+      }
+    },
+    "https://bestmart.cl/products/juego-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2": {
+      "last_changed_at": "2026-10-26T20:48:43+00:00",
+      "name": "JUEGO Ocarina - Bestmart",
+      "snapshot": {
+        "http": 200,
+        "price_clp": null,
+        "status": "unavailable",
+        "title": "Zelda Ocarina of Time Nintendo Switch 2 Preventa | Bestmart"
       }
     },
     "https://playservice.cl/producto/preventa-consola-nintendo-switch-2-the-legend-of-zelda-40th-anniversary/": {
@@ -52,6 +72,16 @@
         "title": "Nintendo Switch 2 – The Legend of Zelda 40.º Aniversario"
       }
     },
+    "https://www.santogames.cl/the-legend-of-zelda-ocarina-of-time-nintendo-switch-2": {
+      "last_changed_at": "2026-10-26T20:48:44+00:00",
+      "name": "JUEGO Ocarina - Santo Games",
+      "snapshot": {
+        "http": 200,
+        "price_clp": null,
+        "status": "unavailable",
+        "title": "The Legend of Zelda: Ocarina of Time – Nintendo Switch 2"
+      }
+    },
     "https://www.todojuegos.cl/Productos/NS2/Consola-Switch-2-Zelda-40th-Aniversario/": {
       "last_changed_at": "2026-09-21T22:22:16+00:00",
       "name": "TodoJuegos",
@@ -60,6 +90,16 @@
         "price_clp": null,
         "status": "unavailable",
         "title": "Consola Switch 2 Zelda 40th Aniversario - Consolas para NS2 -  Nintendo Switch 2 (Chile)"
+      }
+    },
+    "https://www.todojuegos.cl/Productos/NS2/The-Legend-of-Zelda--Ocarina-of-Time/": {
+      "last_changed_at": "2026-10-26T20:48:43+00:00",
+      "name": "JUEGO Ocarina - TodoJuegos",
+      "snapshot": {
+        "http": 200,
+        "price_clp": null,
+        "status": "available",
+        "title": "The Legend Of Zelda: Ocarina Of Time - Juegos para NS2 -  Nintendo Switch 2 (Chile)"
       }
     }
   },
