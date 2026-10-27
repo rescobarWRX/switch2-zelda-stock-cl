@@ -111,6 +111,16 @@
         "status": "available",
         "title": "The Legend Of Zelda: Ocarina Of Time - Juegos para NS2 -  Nintendo Switch 2 (Chile)"
       }
+    },
+    "https://www.weplay.cl/preventa-consola-switch-2-the-legend-of-zelda-40th-aniversario.html": {
+      "last_changed_at": "2026-10-27T06:04:22+00:00",
+      "name": "WePlay",
+      "snapshot": {
+        "http": 404,
+        "price_clp": null,
+        "status": "page_missing",
+        "title": null
+      }
     }
   },
   "version": 2
