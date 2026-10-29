@@ -13,23 +13,23 @@
       }
     },
     "https://bestmart.cl/products/consola-nintendo-switch-2-the-legend-of-zelda-edicion-40-aniversario": {
-      "last_changed_at": "2026-09-21T22:22:10+00:00",
+      "last_changed_at": "2026-10-29T12:36:13+00:00",
       "name": "Bestmart",
       "snapshot": {
-        "http": 200,
-        "price_clp": 669990,
-        "status": "unavailable",
-        "title": "Nintendo Switch 2 Zelda Edición 40 Aniversario | Bestmart"
+        "http": 404,
+        "price_clp": null,
+        "status": "page_missing",
+        "title": null
       }
     },
     "https://bestmart.cl/products/juego-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2": {
-      "last_changed_at": "2026-10-29T03:14:51+00:00",
+      "last_changed_at": "2026-10-29T12:36:25+00:00",
       "name": "JUEGO Ocarina - Bestmart",
       "snapshot": {
-        "http": 200,
+        "http": 404,
         "price_clp": null,
-        "status": "unavailable",
-        "title": "Zelda Ocarina of Time Nintendo Switch 2 Preventa | Bestmart"
+        "status": "page_missing",
+        "title": null
       }
     },
     "https://playservice.cl/producto/preventa-consola-nintendo-switch-2-the-legend-of-zelda-40th-anniversary/": {
