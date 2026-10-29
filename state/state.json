@@ -23,12 +23,12 @@
       }
     },
     "https://bestmart.cl/products/juego-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2": {
-      "last_changed_at": "2026-10-29T03:07:43+00:00",
+      "last_changed_at": "2026-10-29T03:14:51+00:00",
       "name": "JUEGO Ocarina - Bestmart",
       "snapshot": {
         "http": 200,
         "price_clp": null,
-        "status": "available",
+        "status": "unavailable",
         "title": "Zelda Ocarina of Time Nintendo Switch 2 Preventa | Bestmart"
       }
     },
