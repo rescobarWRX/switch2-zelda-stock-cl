@@ -73,13 +73,13 @@
       }
     },
     "https://www.paris.cl/preventa-consola-nintendo-switch-2-the-legend-of-zelda-40th-aniversario-609811999.html": {
-      "last_changed_at": "2026-10-31T01:24:26+00:00",
+      "last_changed_at": "2026-11-05T04:00:47+00:00",
       "name": "Paris",
       "snapshot": {
-        "http": 404,
-        "price_clp": null,
-        "status": "page_missing",
-        "title": null
+        "http": 200,
+        "price_clp": 669990,
+        "status": "available",
+        "title": "Consola Nintendo Switch 2 The Legend of Zelda 40th Aniversario Nintendo | Paris.cl"
       }
     },
     "https://www.paris.cl/preventa-juego-nintendo-switch-2-the-legend-of-zelda-ocarina-of-time-609808999.html": {
