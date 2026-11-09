@@ -123,12 +123,12 @@
       }
     },
     "https://www.todojuegos.cl/Productos/NS2/The-Legend-of-Zelda--Ocarina-of-Time/": {
-      "last_changed_at": "2026-11-09T14:18:19+00:00",
+      "last_changed_at": "2026-11-09T14:52:21+00:00",
       "name": "JUEGO Ocarina - TodoJuegos",
       "snapshot": {
         "http": 200,
         "price_clp": null,
-        "status": "available",
+        "status": "unavailable",
         "title": "The Legend Of Zelda: Ocarina Of Time - Juegos para NS2 -  Nintendo Switch 2 (Chile)"
       }
     },
